@@ -1,0 +1,44 @@
+input{
+    border: 2px solid black;
+    background-color: #fffff0;
+    border-radius: 0.5rem;
+    outline: none;
+    box-sizing: border-box;
+    margin: 1rem;
+    margin-left: 0.5rem;
+    text-align: left;
+    padding: 0.5rem;
+    font-size: large;
+}
+textarea{
+    border: 2px solid saddlebrown;
+    border-radius: 0.5rem;
+    background-color: bisque;
+    margin: 1rem;
+    margin-left: 0.5rem;
+    box-sizing: border-box;
+    text-align: left;
+    padding: 1rem;
+    font-size: large;
+}
+button{
+    margin: 1rem;
+    margin-left: 0.5rem;
+    border: 2px solid black;
+    font-size: medium;
+    font-weight: bold;
+    box-sizing: border-box;
+    padding: 0.5rem;
+}
+.footer .ul-list .list{
+    display: inline-table;
+    
+    padding: 1rem;
+}
+.footer .ul-list .list >.link{
+    text-decoration: none;
+
+
+
+
+}
